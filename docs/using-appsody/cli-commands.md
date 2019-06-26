@@ -78,7 +78,7 @@ Generates bash tab completions
 
 Outputs a bash completion script for appsody to stdout.  Bash completion is optionally available for your convenience. It helps you fill out appsody commands when you type the [TAB] key. 
 
-	To install on macOs
+	To install on macOS
 	1. brew install bash-completion
 	2. Make sure to update your ~/.bash_profile as instructed
 	3. appsody completion > /usr/local/etc/bash_completion.d/appsody
